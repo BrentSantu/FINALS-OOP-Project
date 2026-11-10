@@ -6,17 +6,17 @@ namespace MediaPlayApp
 
         public override void Play()
         {
-            // Audio play implementation
+            
         }
 
         public override void Pause()
         {
-            // Audio pause implementation
+        
         }
 
         public override void Stop()
         {
-            // Audio stop implementation
+            
         }
 
         public override string GetMediaInfo()
